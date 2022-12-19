@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCB_0009_Example", "PCB_0009_Example\PCB_0009_Example.csproj", "{FC6C0EC7-2B49-4090-8F59-BDE33151F8E3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SerialWombatClassLibrary", "..\..\..\..\..\..\..\GitHub\broadwellconsultinginc\SerialWombatCsharpLib\SerialWombatClassLibrary\SerialWombatClassLibrary\SerialWombatClassLibrary.csproj", "{10DF8F0E-6D11-43A0-B2ED-F1A1FAAB92FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC6C0EC7-2B49-4090-8F59-BDE33151F8E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC6C0EC7-2B49-4090-8F59-BDE33151F8E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC6C0EC7-2B49-4090-8F59-BDE33151F8E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC6C0EC7-2B49-4090-8F59-BDE33151F8E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10DF8F0E-6D11-43A0-B2ED-F1A1FAAB92FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10DF8F0E-6D11-43A0-B2ED-F1A1FAAB92FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10DF8F0E-6D11-43A0-B2ED-F1A1FAAB92FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10DF8F0E-6D11-43A0-B2ED-F1A1FAAB92FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD193A3A-7680-476D-A668-2A385D28FF96}
+	EndGlobalSection
+EndGlobal
