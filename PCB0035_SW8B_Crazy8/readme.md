@@ -2,4 +2,4 @@
 
 
 See all documentation for this board at
-https://serialwombat.com/p35(https://serialwombat.com/p35)
+https://serialwombat.com/p35
